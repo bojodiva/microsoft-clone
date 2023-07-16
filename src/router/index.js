@@ -12,7 +12,7 @@ const routes = [
                 path: "password",
                 name: "password",
                 component: passwordPage
-            }
+            },
         ]
     },
 ];
